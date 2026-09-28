@@ -11,27 +11,6 @@
 
 ---
 
-## 🎯 About
-
-SWE with **20 months** of hands-on experience in Go and Python development. Passionate about clean architecture, high-performance systems, and pragmatic automation. Actively seeking positions to apply deep technical knowledge to production environments.
-
-**Specialization:** Server-side application development, backend architecture, consensus algorithms, real-time systems.
-
----
-
-## 💻 Technical Stack
-
-| Category | Technologies |
-|----------|---|
-| **Languages** | Go, Python, Bash, SQL |
-| **LLM / Agents** | Google ADK, LangGraph |
-| **Databases** | PostgreSQL, MySQL, ScyllaDB, Redis |
-| **Frameworks** | net/http based, fasthttp |
-| **Infrastructure** | Docker, Git |
-| **Protocols** | WebSocket, REST, gRPC |
-
----
-
 ## 📧 Get in Touch
 
 💌 **Email:** [diasdias13.08@gmail.com](mailto:diasdias13.08@gmail.com)  
